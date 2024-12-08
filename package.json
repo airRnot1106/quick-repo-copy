@@ -1,6 +1,6 @@
 {
-  "name": "wxt-react-starter",
-  "description": "manifest.json description",
+  "name": "quick-repo-copy",
+  "description": "Browser extension that adds a button to GitHub repository pages, allowing you to easily copy the repository name in the `author/repo` format",
   "private": true,
   "version": "0.0.0",
   "type": "module",
